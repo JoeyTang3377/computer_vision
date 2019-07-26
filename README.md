@@ -20,7 +20,8 @@
 ## face recognition
 ## spatio & temporal action recognition & detection
 ### [temporal action detection](https://github.com/wangxingxing/computer_vision/blob/master/Temporal_Action_Detection.md)
-### action recognition RGBD
+### [action_recognition](https://github.com/wangxingxing/computer_vision/blob/master/action_recognition.md)
+### [action_recognition_RGBD](https://github.com/wangxingxing/computer_vision/blob/master/action_recognition_RGBD.md)
 ## gesture
 # machine learning
 ## CNN
