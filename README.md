@@ -25,7 +25,7 @@
 ### 3.4.3 [action_recognition_RGBD](https://github.com/wangxingxing/computer_vision/blob/master/action_recognition_RGBD.md)
 # 4 machine learning
 ## 4.1 CNN
-### 4.1.1 Architectures
+### 4.1.1 [Architectures](https://github.com/wangxingxing/computer_vision/blob/master/Image_Classification.md)
 ## 4.2 Supervised Learning
 ## 4.3 Unsupervised, Semi-Supervised Learning
 ## 4.4 Transfer Learning
