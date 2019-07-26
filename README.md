@@ -19,7 +19,7 @@
 ## face detection
 ## face recognition
 ## spatio & temporal action recognition & detection
-### temporal action recognition detection
+### temporal action detection
 ### action recognition RGBD
 ## gesture
 # machine learning
