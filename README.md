@@ -5,7 +5,8 @@
 ### Denoise
 # object & scene 
 ## image & video classification
-## object detection
+### [Image Classification](https://github.com/wangxingxing/computer_vision/blob/master/Image_Classification.md)
+## [Object Detection](https://github.com/wangxingxing/computer_vision/blob/master/Object_Detection.md)
 ### object pose estimation
 ## tracking
 ## image & video Segmentation
