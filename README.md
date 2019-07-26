@@ -3,7 +3,7 @@
 ### 1.1.1 Deblurring
 ### 1.1.2 Super-Resolution
 ### 1.1.3 Denoise
-# 2. object & scene 
+# 2 object & scene 
 ## 2.1 image & video classification
 ### 2.1.1 [Image Classification](https://github.com/wangxingxing/computer_vision/blob/master/Image_Classification.md)
 ## 2.2 [Object Detection](https://github.com/wangxingxing/computer_vision/blob/master/Object_Detection.md)
@@ -12,7 +12,7 @@
 ## 2.4 image & video Segmentation
 ### 2.4.1 Saliency
 ### 2.4.2 Shape & edge
-# 3. human
+# 3 human
 ## 3.1 pedestrian detection
 ### 3.1.1 Re-ID
 ### 3.1.2 pose estimation
